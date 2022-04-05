@@ -1,0 +1,19 @@
+
+
+.container {
+  background-color: #282c34;
+  display: flex;
+  flex-wrap: wrap ;
+  justify-content: space-around;
+  
+}
+
+
+.App-header{
+background-color: #282c34;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+color: white;
+} 
+
